@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GithubUserSearch</string>
+    <string name="user_pict">User Picture</string>
+    <string name="name_user">Name User</string>
+    <string name="username">Username</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="dummy_followers">10 Followers</string>
+    <string name="dummy_following">1 Following</string>
+    <string name="dummy_company">Company</string>
+    <string name="dummy_location">Jakarta</string>
+    <string name="my_name">by: Muhammad Theo Reivai</string>
+</resources>
